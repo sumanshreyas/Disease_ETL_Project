@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 10 17:02:45 2022
 
-@author: Suman
+@author: Rian
 """
 
 import webbrowser
